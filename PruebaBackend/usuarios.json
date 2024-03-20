@@ -1,0 +1,36 @@
+[
+  {
+    "id": "89f7a458-858a-402e-8f2e-79bdd120b57a",
+    "name": "John Doe",
+    "email": "jhon@gmail.com",
+    "isMedic": false,
+    "medicGroup": "1"
+  },
+  {
+    "id": "1456b2b2-6774-4030-a6bc-6c0f76115731",
+    "name": "Alan Olvera",
+    "email": "alan@gmai.com",
+    "isMedic": true,
+    "medicGroup": "2"
+  },
+  {
+    "id": "4d1b5aaf-5937-450f-a483-5c6ee6e2c9ac",
+    "name": "Alejandro",
+    "email": "ale@gmail.com",
+    "isMedic": false,
+    "medicGroup": "2"
+  },
+  {
+    "id": "d7306700-1340-4488-852e-615eb73505b2",
+    "name": "Jose de jesus",
+    "email": "jose@gmai.com",
+    "isMedic": true,
+    "medicGroup": "1"
+  },
+  {
+    "id": "537dcee5-7396-44c4-96e4-51cb2dc4bf50",
+    "name": "Diego",
+    "email": "diego@gmai.com",
+    "isMedic": true
+  }
+]

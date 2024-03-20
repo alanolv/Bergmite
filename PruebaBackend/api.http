@@ -1,0 +1,27 @@
+### Recuperar usuario
+GET http://localhost:1234/users
+
+### Recuperar usuario por id
+GET http://localhost:1234/users/89f7a458-858a-402e-8f2e-79bdd120b57a
+
+### Recuperar por tipo de usuario
+GET http://localhost:1234/users?medicGroup=2
+
+### Crear usuario
+POST http://localhost:1234/users
+Content-Type: application/json
+
+{
+    "name": "Adrian",
+    "email": "adrian@gmai.com",
+    
+    "medicGroup": 2
+  }
+
+### Actualizar usuario
+PATCH http://localhost:1234/users/89f7a458-858a-402e-8f2e-79bdd120b57a
+Content-Type: application/json
+
+{
+    "name": "Jhon"
+}
